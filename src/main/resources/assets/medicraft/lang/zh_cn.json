@@ -1,0 +1,19 @@
+{
+  "language": "Chinese",
+  "language.code": "zh_cn",
+  "language.region": "China",
+
+  "itemGroup.medicraft": "医者匠心",
+
+
+
+  "subtitles.block.medicraft.aed.single_bleep": "自动除颤器：嘀声",
+  "subtitles.block.medicraft.aed.long_beep": "自动除颤器：长嘀声",
+  "subtitles.block.medicraft.aed.shock_advised": "自动除颤器：建议电击",
+  "subtitles.block.medicraft.aed.no_shock_advised": "自动除颤器：不建议电击",
+  "subtitles.block.medicraft.aed.dont_touch_patient": "自动除颤器：准备电击",
+  "subtitles.block.medicraft.aed.charge_and_shock": "自动除颤器：充电",
+  "subtitles.block.medicraft.aed.perform_cpr": "自动除颤器：建议心肺复苏",
+  "subtitles.block.medicraft.aed.push_harder": "自动除颤器：建议用力按压",
+  "subtitles.block.medicraft.aed.good_compressions": "自动除颤器：称赞按压力度"
+}

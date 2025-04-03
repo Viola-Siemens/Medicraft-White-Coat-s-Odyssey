@@ -1,0 +1,19 @@
+{
+  "language": "English",
+  "language.code": "en_us",
+  "language.region": "United States",
+
+  "itemGroup.medicraft": "Medicraft: White Coat's Odyssey",
+
+
+
+  "subtitles.block.medicraft.aed.single_bleep": "AED bleeps",
+  "subtitles.block.medicraft.aed.long_beep": "AED beeps",
+  "subtitles.block.medicraft.aed.shock_advised": "AED advises a shock",
+  "subtitles.block.medicraft.aed.no_shock_advised": "AED deprecates a shock",
+  "subtitles.block.medicraft.aed.dont_touch_patient": "AED prepares a shock",
+  "subtitles.block.medicraft.aed.charge_and_shock": "AED charges",
+  "subtitles.block.medicraft.aed.perform_cpr": "AED advises to perform CPR",
+  "subtitles.block.medicraft.aed.push_harder": "AED advises to push harder",
+  "subtitles.block.medicraft.aed.good_compressions": "AED commends the push"
+}

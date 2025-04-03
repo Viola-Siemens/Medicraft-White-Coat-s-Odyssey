@@ -1,0 +1,56 @@
+{
+  "block.medicraft.aed.single_bleep": {
+    "sounds": [
+      "medicraft:aed/single_bleep"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.single_bleep"
+  },
+  "block.medicraft.aed.long_bleep": {
+    "sounds": [
+      "medicraft:aed/long_beep"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.long_beep"
+  },
+  "block.medicraft.aed.shock_advised": {
+    "sounds": [
+      "medicraft:aed/shock_advised"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.shock_advised"
+  },
+  "block.medicraft.aed.no_shock_advised": {
+    "sounds": [
+      "medicraft:aed/no_shock_advised"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.no_shock_advised"
+  },
+  "block.medicraft.aed.dont_touch_patient": {
+    "sounds": [
+      "medicraft:aed/dont_touch_patient"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.dont_touch_patient"
+  },
+  "block.medicraft.aed.charge_and_shock": {
+    "sounds": [
+      "medicraft:aed/charge_and_shock"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.charge_and_shock"
+  },
+  "block.medicraft.aed.perform_cpr": {
+    "sounds": [
+      "medicraft:aed/perform_cpr"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.perform_cpr"
+  },
+  "block.medicraft.aed.push_harder": {
+    "sounds": [
+      "medicraft:aed/push_harder"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.push_harder"
+  },
+  "block.medicraft.aed.good_compressions": {
+    "sounds": [
+      "medicraft:aed/good_compressions"
+    ],
+    "subtitle": "subtitles.block.medicraft.aed.good_compressions"
+  }
+}
