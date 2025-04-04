@@ -26,7 +26,7 @@ import javax.annotation.Nullable;
 @SuppressWarnings("deprecation")
 public class AEDBlock extends BaseEntityBlock {
 	public static final MapCodec<AEDBlock> CODEC = simpleCodec(AEDBlock::new);
-	private static final VoxelShape SHAPE = Block.box(0.0, 0.0, 0.0, 16.0, 8.0, 16.0);
+	private static final VoxelShape SHAPE = Block.box(0.0D, 0.0D, 0.0D, 16.0D, 7.0D, 16.0D);
 
 	public static final DirectionProperty FACING = HorizontalDirectionalBlock.FACING;
 	public static final BooleanProperty LIT = BlockStateProperties.LIT;
